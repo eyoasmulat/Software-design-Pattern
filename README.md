@@ -86,10 +86,10 @@ Implementation of the Memento design pattern for saving and restoring object sta
 - State preservation without exposing internal details
 
 ### Group member
-Name                   ID
-1.`Elias Aynkulu`     -  1402639
-2.`Dessalegn Mulat`     - 1401145
-3.`Habtamu Kebede`      - 1401334
-4.`Amanuel Getachew`    - 1500016
-5.`Haileyesus Melesew`  - 1402967
-6.`Kidestmariam Getenet`- 140
+- `Name `                 -` ID`
+- `Elias Aynkulu`     -  1402639
+- `Dessalegn Mulat`     - 1401145
+- `Habtamu Kebede`      - 1401334
+- `Amanuel Getachew`    - 1500016
+- `Haileyesus Melesew`  - 1402967
+- `Kidestmariam Getenet`- 140
