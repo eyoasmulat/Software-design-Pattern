@@ -1,5 +1,5 @@
 # Group member
-- `Name `                 -` ID`
+- `Name `     ---------            -` ID`
 - `Elias Aynkulu`     -  1402639
 - `Dessalegn Mulat`     - 1401145
 - `Habtamu Kebede`      - 1401334
@@ -96,4 +96,48 @@ Implementation of the Memento design pattern for saving and restoring object sta
 - Full undo/redo capability using two stacks
 - State preservation without exposing internal details
 
+## How to Run the Code
+
+Each design pattern implementation can be run independently. Navigate to the specific directory containing the `main` method and compile and run the respective Java files.
+
+### State Pattern
+```bash
+cd src/State
+javac *.java
+java Main
+```
+
+### Interpreter Pattern
+```bash
+cd src/Interpreter/inventorypricing
+javac *.java
+java PricingCalculatorApp
+```
+
+### Facade Pattern
+```bash
+cd src/facade/SCD\ assignment
+javac *.java
+java FacadePattern
+```
+
+### Memento Pattern
+```bash
+cd src/memento
+javac *.java
+java MementoDemo
+```
+
+## Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
+- Basic understanding of object-oriented programming concepts
+- Command line interface for compiling and running Java programs
+
+## Additional Notes
+
+- All implementations are self-contained and don't require external dependencies
+- Each pattern demonstrates a practical use case rather than just theoretical concepts
+- The code follows standard Java naming conventions and best practices
+- Error handling is kept minimal to focus on the design pattern implementation
 
