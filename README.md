@@ -67,7 +67,7 @@ Implementation of the Facade design pattern for simplifying complex subsystems. 
 
 ### Behavior:
 The facade simplifies a fund transfer operation by coordinating authentication, balance checking, fund transfer, and notification sending behind a single method call.
-
+].
 ## Memento Pattern
 
 **Location:** `src/memento/`
@@ -84,3 +84,11 @@ Implementation of the Memento design pattern for saving and restoring object sta
 - Simple text editor with append functionality
 - Full undo/redo capability using two stacks
 - State preservation without exposing internal details
+
+Group member
+Name                   ID
+Elias Aynkulu        1402639
+Dessalegn Mulat      1401145
+Habtamu Kebede       1401334
+Amanuel Getachew     1500016
+Haileyesus Melesew   1402967
