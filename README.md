@@ -5,7 +5,7 @@
 - `Habtamu Kebede`      - 1401334
 - `Amanuel Getachew`    - 1500016
 - `Haileyesus Melesew`  - 1402967
-- `Kidestmariam Getenet`- 140
+- `Kidestmariam Getenet`- 1401544
 
 
 
