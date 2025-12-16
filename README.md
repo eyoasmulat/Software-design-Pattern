@@ -1,3 +1,14 @@
+# Group member
+- `Name `                 -` ID`
+- `Elias Aynkulu`     -  1402639
+- `Dessalegn Mulat`     - 1401145
+- `Habtamu Kebede`      - 1401334
+- `Amanuel Getachew`    - 1500016
+- `Haileyesus Melesew`  - 1402967
+- `Kidestmariam Getenet`- 140
+
+
+
 # Design Patterns Implementation
 
 This repository contains implementations of various software design patterns in Java. Each pattern is implemented in its own package with practical examples.
@@ -85,11 +96,4 @@ Implementation of the Memento design pattern for saving and restoring object sta
 - Full undo/redo capability using two stacks
 - State preservation without exposing internal details
 
-### Group member
-- `Name `                 -` ID`
-- `Elias Aynkulu`     -  1402639
-- `Dessalegn Mulat`     - 1401145
-- `Habtamu Kebede`      - 1401334
-- `Amanuel Getachew`    - 1500016
-- `Haileyesus Melesew`  - 1402967
-- `Kidestmariam Getenet`- 140
+
