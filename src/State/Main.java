@@ -1,4 +1,4 @@
-package trafficlight;
+package State;
 
 public class Main {
 
